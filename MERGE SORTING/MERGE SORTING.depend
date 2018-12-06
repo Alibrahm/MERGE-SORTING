@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1541416415 source:e:\3rd year\analysis and design algorithms asgnment\merge sorting\merge sorting\main.c
+	<stdio.h>
+	<conio.h>
+	<ctype.h>
+	<windows.h>
+
